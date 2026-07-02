@@ -1,0 +1,26 @@
+:root {
+  /* Warm editorial palette — masa paper, espresso ink, chile + palm accents */
+  --paper: #f4eee2;
+  --paper-deep: #ece3d2;
+  --card: #f8f3ea;
+  --ink: #26201a;
+  --ink-soft: #6b5d4f;
+  --chile: #c2372e;
+  --chile-deep: #a62b24;
+  --palm: #2e6b3e;
+  --palm-light: #9cc58a;
+  --marigold: #dca02e;
+  --line: rgba(38, 32, 26, 0.16);
+  --line-soft: rgba(38, 32, 26, 0.09);
+  --line-on-dark: rgba(244, 238, 226, 0.16);
+  --cream-60: rgba(244, 238, 226, 0.62);
+
+  --font-display: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Archivo Variable', system-ui, -apple-system, sans-serif;
+
+  --nav-h: 72px;
+  --gutter: clamp(1.25rem, 5vw, 5rem);
+  --section-pad: clamp(5rem, 14vh, 10rem);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
